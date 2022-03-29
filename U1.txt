@@ -1,1 +1,3 @@
 create a new file by the name of utkarsh dubey yeah that is my name , nothing to write at the moment so just writing  this
+this is my file name opened in the git , the command to open the file is nano then give your file name and you are ready to go. 
+great 
